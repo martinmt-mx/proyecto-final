@@ -1,0 +1,27 @@
+{
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinmt-mx/proyecto-final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinmt-mx/proyecto-final/issues"
+  },
+  "homepage": "https://github.com/martinmt-mx/proyecto-final#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "loadsh": "^0.0.4",
+    "lodash": "^4.17.20",
+    "mathjs-expression-parser": "^1.0.2",
+    "nodemon": "^2.0.7"
+  }
+}
